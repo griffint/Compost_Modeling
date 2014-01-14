@@ -1,0 +1,1 @@
+This is a project Ruby Spring and I created in our first semester at Olin College of Engineering. 
